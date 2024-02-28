@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/DeepSpeed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/InternLM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/Roleplay-with-XiYou" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/Roleplay-with-XiYou/deploy/Lmdeploy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/Roleplay-with-XiYou/tools/get_data/extract-dialogue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/Roleplay-with-XiYou/train/Xtuner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/xtuner" vcs="Git" />
+  </component>
+</project>
